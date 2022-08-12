@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="bista_wms_api.access_token_expires_in" model="ir.config_parameter">
+        <field name="key">bista_wms_api.access_token_expires_in</field>
+        <field name="value">7776000</field>
+    </record>
+</odoo>
